@@ -1,7 +1,8 @@
 ## TEMPLATE ##
-import math
 
 print("\n")
 print("## TEMPLATE ##")
 
-print("")
+print("<------- Replace_me ------->")
+
+print("\n")
