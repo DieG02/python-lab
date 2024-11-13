@@ -1,9 +1,12 @@
-## TEMPLATE ##
+## WORDS COUNTER ##
 
 print("\n")
-print("## TEMPLATE ##")
+print("## WORDS COUNTER ##")
 
-def template():
-  print("CODE HERE")
+def count_words(string):
+  count = len(string.split(' '))
+  print(count)
+  return count
 
+count_words('This is a loong sentence')
 print("\n")
