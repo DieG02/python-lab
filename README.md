@@ -57,6 +57,7 @@ Contributions are welcome! Feel free to:
 * **Submit pull requests:** Add new exercises, fix bugs, or improve the documentation.
 
 ### License
-[Insert appropriate license here, e.g., MIT]
+MIT License
+Copyright (c) Diego Bautista
 
 **By following this structured approach, you can effectively learn Python at your own pace and build a strong foundation for future projects.**
