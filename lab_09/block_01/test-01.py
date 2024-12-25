@@ -8,9 +8,9 @@ print("## LIST OF FUNCTIONS ##")
 print("")
 
 def main():
-  # test = [f"{random.randint(1, 50):<2}" for i in range(10)]
-  # test = [random.randint(1, 50) for i in range(10)]
-  test = [14, 16, 9, 1, 14, 41, 5, 32, 47, 18]
+  test = [f"{random.randint(1, 50):<2}" for i in range(10)]
+  test = [random.randint(1, 50) for i in range(10)]
+  # test = [14, 16, 9, 1, 14, 41, 5, 32, 47, 18]
   print("input_", test, "\n")
   func_1(test.copy())
   func_2(test.copy())
