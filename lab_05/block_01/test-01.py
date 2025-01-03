@@ -2,8 +2,8 @@
 
 print("\n")
 print("## ATM: Automatic Teller Machine ##")
-
 print("For this test we'll simulate an ATM")
+
 times = 0
 while(times < 3):
   pin = input("\nWelocome to Unicredit, please enter your PIN: ")
