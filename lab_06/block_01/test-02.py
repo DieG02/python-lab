@@ -8,5 +8,5 @@ def count_words(string):
   print(count)
   return count
 
-count_words('This is a loong sentence')
+count_words('This is a looong sentence')
 print("\n")
