@@ -5,6 +5,7 @@ print("## ENROLMENT ##")
 
 print("Now we can try to order to students id")
 print("At PoliTO all students id are like this `s123456`\n")
+
 code_1_input = input("Provide a valid student id: ")
 code_2_input = input("Provide a second student id: ")
 
