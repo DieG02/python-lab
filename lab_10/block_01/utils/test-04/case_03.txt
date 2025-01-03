@@ -1,0 +1,15 @@
+Olivia Martinez; SUPERMARKET; 65.40; 19/12/2024;
+Charlotte Taylor; FRESH FOOD; 60.00; 15/12/2024;
+Ethan Anderson; GROCERY; fifteen; 14/12/2024;
+Lucas Lee; SUPERMARKET; ninety-eight; 12/12/2024;
+Emma Watson; BAKERY; forty-five; 23/12/2024;
+James Brown; BAKERY; twenty; 18/12/2024;
+Mia Garcia; BAKERY; 48.90; 11/12/2024;
+Mark Thompson; FRESH FOOD; ninety; 24/12/2024;
+Mason Miller; GROCERY; 85.12; 16/12/2024;
+Isabella Johnson; SUPERMARKET; 5.25; 17/12/2024;
+Amelia Thomas; FRESH FOOD; 8.10; 13/12/2024;
+Liam Smith; SUPERMARKET; twelve; 22/12/2024;
+Sophia Davis; GROCERY; 7.90; 21/12/2024;
+Noah Wilson; FRESH FOOD; 100.50; 20/12/2024;
+Benjamin Browns; GROCERY; 18.90; 10/12/2024;

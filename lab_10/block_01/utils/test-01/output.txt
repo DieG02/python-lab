@@ -1,0 +1,8 @@
+/*1*/ The Enola Gay (/əˈnoʊlə/) is a Boeing B-29 Superfortress bomber, named after Enola
+/*2*/ Gay Tibbets, the mother of the pilot, Colonel Paul Tibbets. On 6 August 1945, during
+/*3*/ the final stages of World War II, it became the first aircraft to drop an atomic bomb in
+/*4*/ warfare. The bomb, code-named "Little Boy", was targeted at the city of Hiroshima,
+/*5*/ Japan, and destroyed about three-quarters of the city. Enola Gay participated in the
+/*6*/ second nuclear attack as the weather reconnaissance aircraft for the primary target of
+/*7*/ Kokura. Clouds and drifting smoke resulted in Nagasaki, a secondary target, being
+/*8*/ bombed instead.

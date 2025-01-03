@@ -1,0 +1,15 @@
+Ethan Anderson; SUPERMARKET; 15.30; 14/12/2024;
+Andrew McLorenz; SUPERMARKET; 18.90; 10/12/2024;
+Damiano Copolla; GROCERY; 90.25; 24/12/2024;
+Sophia Lewis; SUPERMARKET; 7.90;
+Olivia Johnson; BAKERY;;
+Amelia Thomas; SUPERMARKET;;;
+Kin Lee; BAKERY; 98.45; 12/12/2024;
+Noah Wilson; BAKERY; 105.30; 20/12/2024;
+James Brown; GROCERY; 20.50; 18/12/2024;
+Emma Watson; SUPERMARKET; 45.50; 23/12/2024;
+Steve Smith; GROCERY; 12.75; 22/12/2024;
+Janet Stone; SUPERMARKET; 5.25; 17/12/2024;
+Derek Miller; BAKERY;;;
+Charlotte Taylor; GROCERY; 60.00; 15/12/2024;
+Mia Perez; GROCERY; 48.60; 11/12/2024;

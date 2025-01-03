@@ -1,0 +1,15 @@
+Mark Thompson; DINNER; 90.25; 24/12/2024;
+Emma Watson; LUNCH; 45.50; 23/12/2024;
+Liam Smith; BREAKFAST; 12.75; 22/12/2024;
+Sophia Davis; SNACK; 7.90; 21/12/2024;
+Noah Wilson; DINNER; 105.30; 20/12/2024;
+Olivia Johnson; LUNCH; 65.40; 19/12/2024;
+James Brown; BREAKFAST; 20.50; 18/12/2024;
+Isabella Martinez; SNACK; 5.25; 17/12/2024;
+Mason Miller; DINNER; 85.00; 16/12/2024;
+Charlotte Taylor; LUNCH; 60.00; 15/12/2024;
+Ethan Anderson; BREAKFAST; 15.30; 14/12/2024;
+Amelia Thomas; SNACK; 8.10; 13/12/2024;
+Lucas Lee; DINNER; 98.45; 12/12/2024;
+Mia Perez; LUNCH; 48.60; 11/12/2024;
+Benjamin Garcia; BREAKFAST; 18.90; 10/12/2024;
