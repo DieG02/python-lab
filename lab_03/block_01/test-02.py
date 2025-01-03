@@ -4,14 +4,14 @@ print("\n")
 print("## IDENTIKITEXT ##")
 
 # Rules:
-#  I.   contiene soltanto lettere
-#  II.  contiene soltanto lettere maiuscole
-#  III. contiene soltanto lettere minuscole
-#  IV.  contiene soltanto cifre numeriche decimali
-#  V.   contiene soltanto lettere e cifre
+#  I. contains only letters
+#  II. contains only uppercase letters
+#  III. contains only lowercase letters
+#  IV. contains only decimal numeric digits
+#  V. contains only letters and digits
 
-#  VI.  inizia con una lettera maiuscola
-#  VII. termina con un punto
+#  VI. begins with an uppercase letter
+#  VII. ends with a period
 
 def get_phrase():
   print("You provide a word and if it is ok with one option, we tell you wich is more accurate")
