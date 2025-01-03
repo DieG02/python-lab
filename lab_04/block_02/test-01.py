@@ -67,7 +67,6 @@ if mode == "1":
   
   print(f"\n{'AI' if flag == 0 else 'USER'} loses")
 
-
 else:
   print("\n--- Fooly Mode Enabled ---\n")
   print(f"{'PC' if flag == 0 else 'USER'} starts")
