@@ -14,7 +14,7 @@ def main():
   result = sparse_array_sum(a, b)
   print(result)
   
-def sparse_array_sum(a: dict[int], b: dict[int]) -> dict:
+def sparse_array_sum(a: dict[str, int], b: dict[str, int]) -> dict:
   sum = dict()
   keys = set(a.keys()).union(b.keys())
   
