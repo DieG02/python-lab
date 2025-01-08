@@ -12,16 +12,20 @@ The repository is organized into the following directory structure:
     python-lab/                        #  Root folder, all exercises start from this `path`
     ├── lab_01                         
     │   ├── block_01                   #  `block_01` Covers core concepts like data handling and function creation
-    │   │   ├── text-01.py          
+    │   │   ├── test-01.py          
     │   │   ├── test-02.py
     │   │   └── ...              
-    │   └── block_02                   #  `block_02` Applies knowledge to solve practical scenarios, real-world challenges
+    │   └── block_02                   #  `block_02` Applies knowledge to solve practical scenarios
     │       ├── test-01.py             #  Each exercise is contained in a separate Python file
     │       ├── test-02.py
     │       └── ...
     ├── lab_02                         #  Each lab_XY represents a distinct learning module
-    │   ├── ...                        #  Progressing in difficulty from lab_01 to lab_11
-    ├── ...
+    │   └── block_01                   #  Progressing in difficulty from lab_01 to lab_11
+    │       └── utils                  
+    │           ├── input.py           #  From lab_10 you can find `utils` folder inside
+    │           ├── ouput.py           #  Wich stores `inputs` and `outputs` from exercises
+    │           └── ...
+    └── ... 
 
 
 
