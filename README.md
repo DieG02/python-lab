@@ -1,3 +1,6 @@
+Folder Structure Conventions
+============================
+
 # Python Practice Labs
 
 ### Introduction
@@ -6,25 +9,24 @@ This repository is a collection of Python practice exercises designed to guide l
 ### Structure
 The repository is organized into the following directory structure:
 
-python-lab/
-├── lab_01
-│   ├── block_01
-│   │   ├── exercise_1.py
-│   │   ├── exercise_2.py
-│   │   └── ...
-│   └── block_02
-│       ├── exercise_1.py
-│       ├── exercise_2.py
-│       └── ...
-├── lab_02
-│   ├── ...
-├── ...
 
-* **Labs:** Each lab represents a distinct learning module, progressing in difficulty from lab_01 to lab_10.
-* **Blocks:** Within each lab, there are two blocks:
-  * **Block 01:** Focuses on fundamental concepts like data manipulation and function definitions.
-  * **Block 02:** Tackles real-world problems, encouraging learners to apply their knowledge in practical scenarios.
-* **Exercises:** Each exercise is contained in a separate Python file, starting with a clear description of the problem.
+
+    .                                  #  Documentation files
+    python-lab/                        #  Root folder, all exercises start from this `path`
+    ├── lab_01                         
+    │   ├── block_01                   #  `block_01` Covers core concepts like data handling and function creation
+    │   │   ├── text-01.py          
+    │   │   ├── test-02.py
+    │   │   └── ...              
+    │   └── block_02                   #  `block_02` Applies knowledge to solve practical scenarios, real-world challenges
+    │       ├── test-01.py             #  Each exercise is contained in a separate Python file
+    │       ├── test-02.py
+    │       └── ...
+    ├── lab_02                         #  Each lab_XY represents a distinct learning module
+    │   ├── ...                        #  Progressing in difficulty from lab_01 to lab_11
+    ├── ...
+
+
 
 ### Learning Objectives
 By completing these exercises, you will:
