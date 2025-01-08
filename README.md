@@ -1,6 +1,3 @@
-Folder Structure Conventions
-============================
-
 # Python Practice Labs
 
 ### Introduction
