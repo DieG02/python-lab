@@ -3,12 +3,10 @@
 print("\n")
 print("## SEASONS ##")
 
-input_month = input("Enter a month number: ")
-month = int(input_month)
-input_day = input("Enter a day number: ")
-day = int(input_day)
-# if day > 31 | month > 12:
-#  return print("Impossible date")
+month = int(input("Enter a month number: "))
+day = int(input("Enter a day number: "))
+
+# Seasons list
 seasons = ["Winter", "Spring", "Summer", "Fall"]
 current = 0
 
