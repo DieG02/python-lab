@@ -10,15 +10,17 @@ width = int(width_input) * 10 # 100cm / 10cm
 area = length * width
 amount = int(area/2)
 
+print("")
 print("To cover", area ,"m^2 you need", amount, "white pieces &", amount, "black pieces")
 print("Here you have a map of how to install them: ")
 print("\n")
 
 for i in range(length):
-  row = ''
+  row = ""
   for j in range(width):
-    if (i + j)%2 == 0:
+    if (i + j) % 2 == 0:
       row += "[B]"
     else:
       row += "[W]"
+    row += " "
   print(row)
